@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import logoImage from "./assets/images/logo.png";
-import avatarImage from "./assets/images/avatar.jpg";
+import logoImage from "../assets/images/logo.png";
+import avatarImage from "../assets/images/avatar.jpg";
 import "./App.scss";
 
 function App() {
